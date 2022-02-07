@@ -42,7 +42,7 @@ Nesse tutorial implementaremos um contrato inteligente básico e vamos lançar a
   <img alt="RPC" src="./public/new.png">
 </p>
 
-- Agora vamos clicar em HelloWorld.sol onde vamos escrever nosso primeiro codigo solidity
+- Agora vamos clicar em HelloWorld.sol onde vamos escrever nosso primeiro código solidity
 
 <p align="center">
   <img alt="RPC" src="./public/myapp.png">

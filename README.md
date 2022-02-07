@@ -55,14 +55,14 @@ Nesse tutorial implementaremos um contrato inteligente básico e vamos lançar a
   <img alt="RPC" src="./public/helloword.png">
 </p>
 
-- Uma vez feito, clique no ícone logo abaixo do ícone “explorador de arquivos” conforme mostrado pela ceta em vermelho abaixo:
+- Uma vez feito, clique no ícone logo abaixo do ícone “explorador de arquivos” conforme mostrado pela seta em vermelho abaixo:
 <p align="center">
   <img alt="RPC" src="./public/copilando.png">
 </p>
 
 - Importante conferir a liguagem que estamos usando que é a solidity destacado de vermelho como a imagem a cima.
 
-- Agora compile o contrato clicando no botão Compile MyToken.sol cetado pela ceta verde da imagem a cima.
+- Agora compile o contrato clicando no botão Compile MyToken.sol setado pela seta verde da imagem a cima.
 
 - Uma vez compilado com sucesso, clique no ícone abaixo de “Solidity Compiler” que é “Implantar e executar transações” . Você será recebido pela próxima tela:
 

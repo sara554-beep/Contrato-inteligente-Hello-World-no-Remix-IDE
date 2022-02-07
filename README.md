@@ -71,7 +71,7 @@ Nesse tutorial implementaremos um contrato inteligente básico e vamos lançar a
 </p>
 
 - Em seguida, clique na guia ENVIRONMENT e escolha Ambiente Web3 Injetado . Ele usará automaticamente sua conta Metamask (certifique-se de ter logado em seu Metamask primeiro).
-Então Em seguida, abrirá uma solicitação da MetaMask para se conectar ao site, escolha a conta que queira se conectar (LEMBRANDO QUE PARA ESSE TUTORIAL ESTAMOS USANDO A REDE DE TESTE DA RINKEBY) 
+Então em seguida, abrirá uma solicitação da MetaMask para se conectar ao site, escolha a conta que queira se conectar (LEMBRANDO QUE PARA ESSE TUTORIAL ESTAMOS USANDO A REDE DE TESTE DA RINKEBY) 
 
 <p align="center">
   <img alt="RPC" src="./public/injectweb3.png">
@@ -83,13 +83,13 @@ Então Em seguida, abrirá uma solicitação da MetaMask para se conectar ao sit
   <img alt="RPC" src="./public/confirmaTransacao.png">
 </p>
 
-- Apos alguns segundos você vai receber uma notificação da MetaMask com o status do Deploy isso vai depender se sua internet e rápida e se a rede está sobrecarregada.
+- Após alguns segundos você vai receber uma notificação da MetaMask com o status do Deploy isso vai depender se sua internet e rápida ou se a rede está sobrecarregada.
 
 <p align="center">
   <img alt="RPC" src="./public/metamask.png">
 </p>
 
-- Após a comfirmação vamos poder ver o resultado no terminal do remix e também no etherscan
+- Após a confirmação vamos poder ver o resultado no terminal do remix e também no etherscan.
 
 <p align="center">
   <img alt="RPC" src="./public/deploy.png">

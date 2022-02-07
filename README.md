@@ -17,7 +17,8 @@
 
 ## ✨ Requisitos
 
-Para esse tutorial e necessario ter faucetes " Ether de mentira"
+Para esse tutorial e necessario ter faucets " Ether de mentira".
+Link para obter faucets :
 
 - [Rinkeby](https://faucet.rinkeby.io/)
 - [Ganache](https://trufflesuite.com/ganache/)

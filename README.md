@@ -99,6 +99,26 @@ Então em seguida, abrirá uma solicitação da MetaMask para se conectar ao sit
   <img alt="RPC" src="./public/etherscan.png">
 </p>
 
+- Após o deploy vamos poder ver o nosso contrato HelloWorld.
+
+<p align="center">
+  <img alt="RPC" src="./public/get.png">
+</p>
+
+- Agora para podermos ver o conteúdo do nosso contrato e para isso vamos clicar nessa seta antes do HELLOWORLD, e agora vamos ter um botão com a opção greet como a imagem abaixo.
+
+<p align="center">
+  <img alt="RPC" src="./public/greet.png">
+</p>
+
+- Após clicarmos no botão nós vamos ter no terminal do Remix a opção de chamar o conteúdo do nosso contrato, ao lado da opção de Debug vamos clicar na seta marcada com uma seta verde e veremos o conteúdo do nosso contrato como a imagem abaixo. 
+
+<p align="center">
+  <img alt="RPC" src="./public/fim.png">
+</p> 
+
+- E assim finalizamos esse tutorial de como implementar nosso primeiro contrato inteligente juntos.
+
 # FIM
 
 ## 📄 Licença
